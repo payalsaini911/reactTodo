@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "//payalsaini911.github.io/reactTodo/static/css/main.adc1228c.chunk.css",
+    "main.js": "//payalsaini911.github.io/reactTodo/static/js/main.36fc63dc.chunk.js",
+    "main.js.map": "//payalsaini911.github.io/reactTodo/static/js/main.36fc63dc.chunk.js.map",
+    "runtime-main.js": "//payalsaini911.github.io/reactTodo/static/js/runtime-main.13085eae.js",
+    "runtime-main.js.map": "//payalsaini911.github.io/reactTodo/static/js/runtime-main.13085eae.js.map",
+    "static/js/2.155bd1cb.chunk.js": "//payalsaini911.github.io/reactTodo/static/js/2.155bd1cb.chunk.js",
+    "static/js/2.155bd1cb.chunk.js.map": "//payalsaini911.github.io/reactTodo/static/js/2.155bd1cb.chunk.js.map",
+    "index.html": "//payalsaini911.github.io/reactTodo/index.html",
+    "static/css/main.adc1228c.chunk.css.map": "//payalsaini911.github.io/reactTodo/static/css/main.adc1228c.chunk.css.map",
+    "static/js/2.155bd1cb.chunk.js.LICENSE.txt": "//payalsaini911.github.io/reactTodo/static/js/2.155bd1cb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13085eae.js",
+    "static/js/2.155bd1cb.chunk.js",
+    "static/css/main.adc1228c.chunk.css",
+    "static/js/main.36fc63dc.chunk.js"
+  ]
+}
